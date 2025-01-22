@@ -1,22 +1,19 @@
 * {
     background-color: #f5f4f0;
-    
     -webkit-font-smoothing: antialiased;
 }   
 
-
-
-:root{
-    display: flex;
-    justify-content: center;
+:root{ 
     font-family: "Open Sans", sans-serif;
 }
 
 body{
-    width: 100%;
+    width: 88%;
     margin: 4%;
     padding: 2.5%;
 }
+
+
 
 .divider {
     width: 100%;
